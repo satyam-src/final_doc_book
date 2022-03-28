@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">final_doc_book</string>
+
+    <string name="dr_t_adhi_n" translatable="false">Dr. T Adhi narayana</string>
+    <string name="mbbs_md_pgd" translatable="false">MBBS, MD, PGD</string>
+    <string name="general_phy" translatable="false">GENERAL PHYSICIAN/ INTERNAL MEDICINE</string>
+    <string name="years_0f_ex">8 Years 0f Experence</string>
+    <string name="video_consu">Video Consultation</string>
+    <string name="avil_time"></string>
+
+
+</resources>
